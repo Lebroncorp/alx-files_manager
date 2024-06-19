@@ -1,1 +1,1 @@
-Files Manager
+alx-files-manager
